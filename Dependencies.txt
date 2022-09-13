@@ -1,0 +1,1 @@
+Para poder correr el codigo hay que tener installado PyQt5 y SQLAlchemy
